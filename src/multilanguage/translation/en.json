@@ -1,0 +1,47 @@
+{
+    "app.login.title": "Accesso",
+    "app.notFound.title": "Oooops! Wrong Route",
+    "app.notFound.text": "404 - ",
+    "app.notFound.link": "Go home",
+
+    "homepage.why.title": "Why ?",
+    "homepage.why.text": "Thanks to blockchain technology it's possible to grant a total transparency and traceability of the animals data. Owners, Veterinarian and Associations can handle the data in an easy way thanks to global and immutable register stored over the blockchain network, accessible from everywhere.",
+    "homepage.how.title": "How ?",
+    "homepage.how.text": "Thanks to smart contracts. When the user performs an action over the platform the smart contract is invoked and a specific transaction is performed over the Blockchain network",
+
+    "homepage.button.register": "Register",
+    "homepage.button.getter": "Get informations",
+
+
+    "homepage.timeline.step1": "Download Metamask",
+    "homepage.timeline.step1.download": "Download Here",
+    "homepage.timeline.step2": "Register User",
+    "homepage.timeline.step3": "Easy Access to your data",
+    "homepage.timeline.step4": "Download Metamask",
+
+    "homepage.timeline.step1.text": "Olaaa",
+    "homepage.timeline.step2.text": "Olaaa",
+    "homepage.timeline.step3.text": "Olaaa",
+
+    "homepage.feature.data.title": "Handle of data",
+    "homepage.feature.data.text": "Trasparente e organizzata. Accesso istantaneo allo storico delle visite e libretto sanitario dell'animale. Utile per il veterinario, i padroni e le associazioni.",
+
+    "homepage.feature.track.title": "Traceability",
+    "homepage.feature.track.text": "In caso di smarrimento o di trasferimento dell'animale sarà più semplice risalire ai dati ad esso collegati. Ogni animale avrà un QRCode personale contenente tutti i dati salvati su Blockchain.",
+
+    "homepage.feature.genealogy.title": "Genealogy",
+    "homepage.feature.genealogy.text": "Garantendo trasparenza e tracciabilità dell'animale si facilita la costruzione della genealogia dello stesso. Oltre a migliorare significativamente la prevenzione nei confronti di eventuali patologie ereditarie.",
+
+    "app.homepage.faq.question1.title": "Who can access to the platform ?",
+    "app.homepage.faq.question1.content": "Owners, Associations, Veterinarians and Insurance companies. Each type of user have specific permissions over the platform, allowing users to perform a set of actions inside it.",
+
+    "app.homepage.faq.question2.title": "How the is certified the Vets and Insurance companies registration?",
+    "app.homepage.faq.question2.content": "Once the Vets and Insurance companies send the registration request, an admin cares about approve or reject the registration request. Once the registration is approved, the user address is added inside the vets or insurace list.",
+    "app.homepage.faq.question2.message": "During the Beta the registration is automatically approved",
+
+    "app.homepage.faq.question3.title": "How is certified the ownership of the animal inside the platform?",
+    "app.homepage.faq.question3.content": "The Veterinarian confirms the ownership request of the animal that can access to overall information about owner and animal.",
+    "app.homepage.faq.question3.message": "During the Beta the ownership is automatically approved"
+
+
+}
